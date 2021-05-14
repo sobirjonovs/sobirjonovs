@@ -1,4 +1,7 @@
-### Hi there 👋
+# Assalamu alaikum
+
+## Sanjarbek Sobirjonov, fullstack web-developer. 
+### +99899470****, sobirjonovsdev@gmail.com
 
 <!--
 **sobirjonovs/sobirjonovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Sobirjonov's github stats](https://github-readme-stats.vercel.app/api?username=sobirjonovs)](https://github.com/sobirjonovs/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobirjonovs)
+
+
+### The number of people watched me:
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sobirjonovs)
