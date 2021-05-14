@@ -1,7 +1,7 @@
 # Assalamu alaikum
 
 ## Sanjarbek Sobirjonov, fullstack web-developer. 
-### +99899470****, sobirjonovsdev@gmail.com
+### +998998163546, sobirjonovsdev@gmail.com
 
 <!--
 **sobirjonovs/sobirjonovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
