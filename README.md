@@ -30,7 +30,7 @@
  - [x] Vuejs
  - [x] Algorithm
  - [x] Math / logical problems
- - [x] everything make me better
+ - [x] everything makes me better
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=sobirjonovs&show_icons=true&theme=radical)
 
