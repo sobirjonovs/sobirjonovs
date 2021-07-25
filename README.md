@@ -9,7 +9,7 @@
  - [x] Leader
  - [x] Problem-solver
  - [x] Introvert
- - [x] Flexable/adaptive
+ - [x] Flexible/adaptive
  - [x] Talented
 
 **📚 Hard skills**
