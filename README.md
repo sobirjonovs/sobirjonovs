@@ -1,29 +1,39 @@
-# Assalamu alaikum
 
-## Sanjarbek Sobirjonov, fullstack web-developer. 
-### +998998163546, sobirjonovsdev@gmail.com
+👋 I'm **Sanjarbek Sobirjonov** from Uzbekistan/Syrdarya
 
-<!--
-**sobirjonovs/sobirjonovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Personal website** [www.sobirjonovs.site](https://sobirjonovs.site)
 
-Here are some ideas to get you started:
+**📫 Contact on** [![Sanjarbek Sobirjonov](https://img.shields.io/badge/sobirjonovs-30302f?style=flat&logo=telegram)](https://t.me/sobirjonovsuz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📚 Soft skills**
+ - [x] Leader
+ - [x] Problem-solver
+ - [x] Introvert
+ - [x] Flexable/adaptive
+ - [x] Talented
 
-[![Sobirjonov's github stats](https://github-readme-stats.vercel.app/api?username=sobirjonovs)](https://github.com/sobirjonovs/github-readme-stats)
+**📚 Hard skills**
+ - [x] PHP
+ - [x] Python
+ - [x] Telegram bot using PHP/Python
+ - [x] Laravel / Yii2
+ - [x] MySQL/PostgreSQL
+ - [x] Docker
+ - [x] Git / Github / Gitlab
+ - [x] Linux
+ - [x] HTML / CSS 
+ - [x] JavaScript
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobirjonovs)
+🚀 **Interests**
+ - [x] Golang
+ - [x] React
+ - [x] Vuejs
+ - [x] Algorithm
+ - [x] Math / logical problems
+ - [x] everything make me better
 
+![Dynamic name](https://github-readme-stats.vercel.app/api?username=sobirjonovs&show_icons=true&theme=radical)
 
-### The number of people watched me:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobirjonovs&layout=compact&theme=radical)
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sobirjonovs)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sobirjonovs/)
