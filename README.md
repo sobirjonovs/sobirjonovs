@@ -3,7 +3,7 @@
 
 🌐 **Personal website** [www.sobirjonovs.site](https://sobirjonovs.site)
 
-**📫 Contact on** [![Sanjarbek Sobirjonov](https://img.shields.io/badge/sobirjonovs-30302f?style=flat&logo=telegram)](https://t.me/sobirjonovsuz)
+**📫 Contact on** [![Sanjarbek Sobirjonov](https://img.shields.io/badge/sobirjonovs-30302f?style=flat&logo=telegram)](https://t.me/sobirjonovs)
 
 **📚 Soft skills**
  - [x] Leader
